@@ -1,0 +1,6 @@
+to create a table 
+1: Set fields in models.py
+
+2: py manage.py makemigrations
+
+3:
